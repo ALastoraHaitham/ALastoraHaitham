@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sss4htcqjh5j6fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sss4htcqjh5j6fx" height="30" width="40" /></a>
+<a href="https://x.com/haitham_tw19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sss4htcqjh5j6fx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haitham-alnamer-a58765218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haitham-alnamer-a58765218" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100012777525642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haitham-al-namer" height="30" width="40" /></a>
 <a href="https://instagram.com/h_insta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_insta19" height="30" width="40" /></a>
